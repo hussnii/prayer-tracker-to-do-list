@@ -37,5 +37,3 @@ The website is a simple and interactive tool to help users organize **daily pray
 ---
 
 
-Special thanks to **NESDA Sisters Community**, the online school where I learned web development and created this project.
-
